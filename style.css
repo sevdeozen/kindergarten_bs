@@ -1,0 +1,78 @@
+.navbar-brand img {
+    border-radius: 50%;
+    margin-right: 5px;
+}
+
+.resimSlider{
+    height: 600px;
+    
+}
+
+body{
+    padding-top: 50px;
+    font-family: 'Poppins', sans-serif;
+    background-image: url(/img/bg.jpg );
+    
+     
+}
+
+.hyazi{
+    background-color: #E3F4FC;
+    border: 2px solid #c4e8f9;
+}
+
+.ayrac{
+    border: none;
+    border-top: 3px solid #1a2634;
+    max-width: 300px;
+    margin: 25px auto;
+}
+
+.ibeyaz{
+    color: #2c3540;
+    position: relative;
+    top: -55px;
+    font-size: 40px;
+    border: 10px solid #fff;
+    background-color: #fff;
+
+}
+
+.card img{
+   width: 100%;
+   height: 100%;
+}
+
+.card img:hover{
+    opacity: 0.8;
+    cursor: pointer;
+}
+/*
+.ekipCard img:hover{
+    opacity: 0.8;
+    cursor: pointer;
+}*/
+
+.col-md-3{
+    width: 300px;
+    height: 300px;
+   
+}
+.col-md-3 img{
+    width:100%;
+    height: 300px;
+    object-fit: cover;
+}
+
+.figure:hover{
+    opacity: 0.8;
+}
+
+.container input{
+    border: 3px solid;
+   
+}
+
+.container textarea{
+    border: 3px solid;
+}
